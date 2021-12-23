@@ -4,7 +4,7 @@ Navigation system for a Quadcopter.
 ![drone](https://user-images.githubusercontent.com/55064602/147283396-807aca62-a7a8-4963-b87f-1ae133738b42.png)
 
 ## Project Description:
-This simulates a control software for a drone navigation system. There are 4 main components of this navigation system that 
+This project simulates a control software for a drone navigation system. The following components are the main components of the Drone navigation system.
 
 ### Airframe Status:
 The Airframe Status of the Drone tracks the Drone in a 3 dimensional co-ordinate system. It consists of the following components:
