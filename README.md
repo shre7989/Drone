@@ -74,6 +74,7 @@ The Airframe status panel keeps you updated about the current position of the Dr
 ![log](https://user-images.githubusercontent.com/55064602/147296654-73206082-87b9-4d3a-806a-770996b13e79.png)
 
 The Drone log provides information about the different events communicated by the Drone Navigation System. 
+For more information about the different types of events communicated by the Drone controller, please look up the SRS (Software Requirement Specification) document.
 
 ## Instructions:
 - The Signal Handler(Radio) for the drone uses the Ipv4 address of the system you are working on. So, change the server socket host using the Ipv4 address of your current network, which you can find using ip config in cmd. Also, configure the socket for the remote controller using the same Ipv4 address.
